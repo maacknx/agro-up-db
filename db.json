@@ -1,0 +1,301 @@
+{
+  "usuarios": [
+    {
+      "id": 1,
+      "login": "dhyego",
+      "senha": "fti123"
+    }
+  ],
+  "empresas": [
+    {
+      "id": 2,
+      "cnpj": "85.128.382/0001-96",
+      "nome": "Dobom Fert",
+      "ativo": "Sim",
+      "pathImg": "https://i.pinimg.com/564x/12/be/4f/12be4ffc548f9af57dbe49634afab1a5.jpg",
+      "category" : "Fertilizantes"
+    },
+    {
+      "id": 3,
+      "cnpj": "42.421.471/0001-13",
+      "nome": "Fert Mats",
+      "ativo": "Sim",
+      "pathImg": "https://i.pinimg.com/564x/c1/07/aa/c107aaf107e9eb0163f4b0532ae46c05.jpg",
+      "category" : "Fertilizantes"
+    },
+    {
+      "id": 4,
+      "cnpj": "36.415.229/0001-34",
+      "nome": "Max Colheita",
+      "ativo": "Sim",
+      "pathImg": "https://i.pinimg.com/564x/89/39/aa/8939aa0b6f327f7b4e1b493c272dac4d.jpg",
+      "category" : "Fertilizantes"
+    },
+    {
+      "id": 5,
+      "cnpj": "38.074.272/0001-09",
+      "nome": "Control plant",
+      "ativo": "Sim",
+      "pathImg": "https://i.pinimg.com/564x/0f/9e/3e/0f9e3e30f22152ca7235c2ddf4da4c08.jpg",
+      "category" : "Defensivos"
+    },
+    {
+      "id": 6,
+      "cnpj": "38.074.272/0001-09",
+      "nome": "Big Force",
+      "ativo": "Sim",
+      "pathImg": "https://i.pinimg.com/564x/12/be/4f/12be4ffc548f9af57dbe49634afab1a5.jpg",
+      "category" : "Defensivos"
+    },
+    {
+      "id": 7,
+      "cnpj": "38.074.272/0001-09",
+      "nome": "Ducamp",
+      "ativo": "Sim",
+      "pathImg": "https://i.pinimg.com/564x/12/be/4f/12be4ffc548f9af57dbe49634afab1a5.jpg",
+      "category" : "Ferramentas"
+    },
+    {
+      "id": 8,
+      "cnpj": "38.074.272/0001-09",
+      "nome": "Tools for Camp",
+      "ativo": "Sim",
+      "pathImg": "https://i.pinimg.com/564x/0f/9e/3e/0f9e3e30f22152ca7235c2ddf4da4c08.jpg",
+      "category" : "Ferramentas"
+    },
+    {
+      "id": 9,
+      "cnpj": "38.074.272/0001-09",
+      "nome": "AllForPlant",
+      "ativo": "Sim",
+      "pathImg": "https://i.pinimg.com/564x/12/be/4f/12be4ffc548f9af57dbe49634afab1a5.jpg",
+      "category" : "Ferramentas"
+    }
+  ],
+  "pedidos": [
+    {
+      "id": 1,
+      "cliente": "João Ribeiro",
+      "dataPedido": "17/05/2021",
+      "valorTotal": "R$ 8.000,00"
+    },
+    {
+      "id": 2,
+      "cliente": "Maria Motta",
+      "dataPedido": "19/05/2021",
+      "valorTotal": "R$ 12.000,00"
+    },
+    {
+      "id": 3,
+      "cliente": "Julia Tocci",
+      "dataPedido": "23/06/2021",
+      "valorTotal": "R$ 15.000,00"
+    },
+    {
+      "id": 4,
+      "cliente": "Barbara Castilho",
+      "dataPedido": "07/07/2021",
+      "valorTotal": "R$ 20.000,00"
+    }
+  ],
+  "notasFiscais": [
+    {
+      "id": 1,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Joice Lerate",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 2,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Nilton Mota Carvalheiro",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 3,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Shayan Chousa Machado",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 4,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Rogério Ávila Cavalheiro",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 5,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Débora Sabrosa Botelho",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 6,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Cristiano Covinha Bragança",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 7,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Lamarana Camacho Teves",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 8,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Lorenzo Fazendeiro Albernaz",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 9,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Abrão Borges Anlicoara",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 10,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Ava Farinha Trindade",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 11,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Céline Monjardim Antunes",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 12,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Abdullah Antunes Festas",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 13,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Ariana Fitas Melo",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 14,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Ariana Fitas Melo",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 15,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Ariana Fitas Melo",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 16,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Ariana Fitas Melo",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 17,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Ariana Fitas Melo",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 18,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Ariana Fitas Melo",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 19,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Ariana Fitas Melo",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 20,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Ariana Fitas Melo",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 21,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Ariana Fitas Melo",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    },
+    {
+      "id": 22,
+      "dataImport": "10/09/2021 12:30",
+      "dataNF": "09/09/2021",
+      "cliente": "Ariana Fitas Melo",
+      "valorNF": "R$ 250.000,00",
+      "frete": "R$ 2.000,00",
+      "icms": "R$ 1.900,00"
+    }
+  ]
+}
